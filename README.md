@@ -3,12 +3,11 @@
 </br>
 
 # 一、Github 博客、页面搭建、预览等方法
-+ 在Github Pages搭建自己写的页面
-URL:[http://www.cnblogs.com/lijiayi/p/githubpages.html](http://www.cnblogs.com/lijiayi/p/githubpages.html)
-</br>
-+ 在线预览Github 页面方法.可以通这个网站，直接在线预览html页面
-URL：[http://htmlpreview.github.io] (http://htmlpreview.github.io)
-操步骤
++ 在Github Pages搭建自己写的页面 </br>
+URL:[http://www.cnblogs.com/lijiayi/p/githubpages.html](http://www.cnblogs.com/lijiayi/p/githubpages.html)</br>
++ 在线预览Github 页面方法.可以通这个网站，直接在线预览html页面 </br>
+URL：[http://htmlpreview.github.io] (http://htmlpreview.github.io) </br>
+操步骤 </br>
 <img src="images/github-help_01.png"/>
 <img src='images/github-help_02.png'/>
 
