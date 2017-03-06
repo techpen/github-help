@@ -2,7 +2,7 @@
 + Github 操作指南，整理收集一些常用的get
 </br>
 
-# 一、Github 博客、页面搭建、预览等方法
+# 一、Github 搭建博客、托管网页、预览等
 + 在Github Pages搭建自己写的页面 </br>
 URL:[http://www.cnblogs.com/lijiayi/p/githubpages.html](http://www.cnblogs.com/lijiayi/p/githubpages.html)</br>
 
@@ -10,7 +10,7 @@ URL:[http://www.cnblogs.com/lijiayi/p/githubpages.html](http://www.cnblogs.com/l
 URL：[http://htmlpreview.github.io] (http://htmlpreview.github.io) </br>
 
 操步骤 </br>
-*****
+----
 <img src="images/github-help_01.png"/>
 <img src='images/github-help_02.png'/>
 
