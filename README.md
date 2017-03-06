@@ -8,5 +8,12 @@ Github 操作指南
 <img src="images/github-help_01.png"/>
 <img src='images/github-help_02.png'/>
 
-# 二、操作基本命令
-+ 上传：
+# 二、Git命令目录
+### 1.常用命令
++ $ git clone  //本地如果无远程代码，先做这步，不然就忽略
++ $ cd //定位到你blog的目录下
++ $ git status //查看本地自己修改了多少文件
++ $ git add . //添加远程不存在的git文件
++ $ git commit  -m "what I want told to someone" //提交修改
++ $ git push  //更新到远程服务器上
++ $ git rm //移除文件
