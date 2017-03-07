@@ -11,8 +11,8 @@ URL：[http://htmlpreview.github.io] (http://htmlpreview.github.io) </br>
 
 操步骤 </br>
 ----
-<img src="images/github-help_01.png"/>
-<img src='images/github-help_02.png'/>
+![](images/github-help_01.png)
+![](images/github-help_02.png)
 
 # 二、Git命令目录
 ### 1.常用命令
